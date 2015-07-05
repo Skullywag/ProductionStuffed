@@ -235,7 +235,7 @@
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
     </building>
     <researchPrerequisite>Machining</researchPrerequisite>
-    <designationHotKey>N</designationHotKey>
+    <designationHotKey>I</designationHotKey>
   </ThingDef>
 
   <ThingDef ParentName="BuildingBase">
@@ -445,7 +445,7 @@
     <designationCategory>Production</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
-    <designationHotKey>N</designationHotKey>
+    <designationHotKey>R</designationHotKey>
   </ThingDef>
 
   <!-- ========== Hydroponics ==============-->
